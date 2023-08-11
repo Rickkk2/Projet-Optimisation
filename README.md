@@ -1,6 +1,8 @@
 # Projet Optimisation
 
-Group work for the course *Projet Optimisation* of the MSc in Mathematical Engineering at Sorbonne Université.
+Group work on nonlinear optimization whose objective was to use the SQP algorithm to find the lightest possible launcher to put a satellite of a given mass into orbit at a given altitude.
+
+Done for the course *Projet Optimisation* of the MSc in Mathematical Engineering at Sorbonne Université.
 
 Submitted in January 2023.
 
