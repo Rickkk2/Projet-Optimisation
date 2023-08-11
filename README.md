@@ -1,6 +1,7 @@
 # Projet Optimisation
 
-Group work for the subject "Projet Optimisation" of the MSc in Mathematical Engineering at Sorbonne Université.
+Group work for the course *Projet Optimisation* of the MSc in Mathematical Engineering at Sorbonne Université.
+
 Submitted in January 2023.
 
 ## SQP
