@@ -1,4 +1,4 @@
-# Projet Optimisation
+# Space launcher optimization
 
 Group work on nonlinear optimization whose objective was to use the SQP algorithm to find the lightest possible launcher to put a satellite of a given mass into orbit at a given altitude.
 
