@@ -1,5 +1,8 @@
 # Projet Optimisation
 
+Group work for the subject "Projet Optimisation" of the MSc in Mathematical Engineering at Sorbonne Université.
+Submitted in January 2023.
+
 ## SQP
 
 Implémentation de l'algorithme SQP(Sequential quadratic programming) avec des fonctions utiles
